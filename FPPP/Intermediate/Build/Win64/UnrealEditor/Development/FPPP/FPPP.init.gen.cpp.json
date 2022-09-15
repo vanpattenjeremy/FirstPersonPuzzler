@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\unrealeditor\\inc\\fppp\\fppp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\fpppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\unrealeditor\\development\\fppp\\definitions.fppp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPPP",
+			"Path": "D:\\UnrealProjects\\BasicTacticsGame\\FPPP\\Source\\FPPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPPPEditor",
+			"Path": "D:\\UnrealProjects\\BasicTacticsGame\\FPPP\\Source\\FPPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

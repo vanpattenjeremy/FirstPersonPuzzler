@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FPPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\FPPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\UnrealEditor\Development\FPPP\FPPP.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\UnrealEditor\Development\FPPP\FPPPGameModeBase.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\UnrealEditor\Development\FPPP\FPPP.init.gen.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\UnrealEditor\Development\FPPP\FPPPGameModeBase.gen.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\UnrealEditor\Development\FPPP\Default.rc2.res"
+/OUT:"D:\UnrealProjects\BasicTacticsGame\FPPP\Intermediate\Build\Win64\UnrealEditor\Development\FPPP\UnrealEditor-FPPP.lib"

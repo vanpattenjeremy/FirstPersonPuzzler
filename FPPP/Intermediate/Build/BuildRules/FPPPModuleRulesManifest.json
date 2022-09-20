@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\BasicTacticsGame\\FPPP\\Source\\FPPP\\FPPP.Build.cs",
+		"D:\\UnrealProjects\\BasicTacticsGame\\FPPP\\Source\\FPPP.Target.cs",
+		"D:\\UnrealProjects\\BasicTacticsGame\\FPPP\\Source\\FPPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

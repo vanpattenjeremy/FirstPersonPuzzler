@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\unrealeditor\\inc\\fppp\\fpppgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\fpppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\unrealeditor\\development\\fppp\\definitions.fppp.h",
+            "d:\\unrealprojects\\basictacticsgame\\fppp\\source\\fppp\\fpppgamemodebase.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unrealprojects\\basictacticsgame\\fppp\\intermediate\\build\\win64\\unrealeditor\\inc\\fppp\\fpppgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
